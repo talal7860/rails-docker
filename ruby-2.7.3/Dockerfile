@@ -1,4 +1,4 @@
-FROM ruby:2.7.2
+FROM ruby:2.7.3
 
 WORKDIR /app
 ENV BUNDLE_PATH=/app/vendor/bundle\
